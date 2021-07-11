@@ -55,7 +55,7 @@ const IndexPage = () => {
               <ul className="UnorderedListWorkersThemed UnorderedListWorkersThemed-is-primary">
                 <li>From signup to globally deployed in <strong>&lt;5min</strong></li>
                 <li>Your code runs within <strong>milliseconds</strong> of your users worldwide</li>
-                <li>Say goodbye to cold starts—support for <strong>0ms&nbsp;worldwide</strong>&nbsp;<span className="HeroSection--new-badge">NEW</span></li>
+                <li>Say goodbye to cold starts—support for <strong>0ms&nbsp;worldwide</strong></li>
               </ul>
             </div>
           </div>
